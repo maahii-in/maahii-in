@@ -2,46 +2,21 @@
 
 # MAHI BUDATI
 
-### AI Engineer · LLM & RAG Systems
+<div align="center">
 
-*Turning complex AI concepts into practical, production-ready solutions.*
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahieshwar.budati@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahi-budati1209)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maahii-in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-budati1209)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahieshwar.budati@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maahii-in)
 
 </div>
 
----
+</div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an **AI Engineer** specializing in intelligent systems and **LLM-powered applications**. I design and build retrieval-augmented systems that turn raw data into reliable, useful answers.
+I am an **AI Engineer** specializing in intelligent systems & **LLM-powered applications**. I build **RAG architectures** using **LangChain, LangGraph, Vector Databases and Graph RAG**, turning complex AI concepts into practical solutions.
 
-## 🎯 Focus Areas
-
-| | |
-|---|---|
-| 🤖 **LLM Applications** | Intelligent assistants and workflows powered by large language models |
-| 🔗 **RAG Architectures** | Retrieval pipelines with LangChain, LangGraph, vector databases and Graph RAG |
-| ⚙️ **Applied AI** | Turning complex AI concepts into practical solutions |
-
-## 🛠️ Technical Stack
-
-| Category | Technologies |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB) |
-| **LLM & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C) ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langgraph&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=white) ![Graph RAG](https://img.shields.io/badge/Graph%20RAG-0d1117?style=for-the-badge&logoColor=white) |
-| **Vector Databases** | ![Milvus](https://img.shields.io/badge/Milvus-0d1117?style=for-the-badge&logo=milvus&logoColor=00A1EA) |
-| **ML & NLP** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E) ![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logoColor=white) |
-| **Backend & Apps** | ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC) |
-
-## 🔥 Contribution Activity
+## 📊 GitHub Contribution Graph
 
 <div align="center">
 
@@ -53,14 +28,54 @@ I'm an **AI Engineer** specializing in intelligent systems and **LLM-powered app
 
 </div>
 
----
+## 💼 Technical Stack
+
+#### 🎯 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### 🧠 GenAI & AI Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00A1FF?style=flat-square)
+![Graph RAG](https://img.shields.io/badge/Graph%20RAG-7B61FF?style=flat-square)
+![Vector DBs & Embeddings](https://img.shields.io/badge/Vector%20DBs%20%26%20Embeddings-008080?style=flat-square)
+
+#### 🔌 Python Backend & Apps
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+#### 👁️ AI, Machine Learning & NLP
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### 🗄️ Databases
+![Milvus](https://img.shields.io/badge/Milvus-00BFFF?style=flat-square)
+
+#### 🧰 Tools & Development
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### ☁️ Deployment & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 <div align="center">
 
-### 🤝 Let's Connect
+## 🌟 Let's Build Something Amazing Together!
 
-**Open to collaboration · AI & LLM projects · RAG system design**
+**Open to collaboration | AI & LLM Projects | RAG System Design | Consultations** 🚀
 
-<sub>⭐ If you found this profile interesting, consider leaving a star!</sub>
+<sub>⭐ If you found this profile interesting, please consider leaving a star!</sub>
 
 </div>
