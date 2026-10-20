@@ -60,7 +60,9 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### 🗄️ Databases
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00BFFF?style=flat-square)
+![Knowledge DB](https://img.shields.io/badge/Knowledge%20DB-2C3E50?style=flat-square)
 
 #### 🧰 Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
