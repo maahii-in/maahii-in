@@ -36,6 +36,7 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 #### 🧠 GenAI & AI Agents
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-8A2BE2?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-00A1FF?style=flat-square)
 ![Graph RAG](https://img.shields.io/badge/Graph%20RAG-7B61FF?style=flat-square)
@@ -47,6 +48,7 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 
 #### 👁️ AI, Machine Learning & NLP
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 
 #### 💻 Frontend
@@ -64,6 +66,9 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 
 #### ☁️ Deployment & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Image Hardening](https://img.shields.io/badge/Image%20Hardening-2C3E50?style=flat-square&logo=docker&logoColor=white)
+![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD%20Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 #### 🎨 Design
@@ -78,4 +83,5 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 
 <sub>⭐ If you found this profile interesting, please consider leaving a star!</sub>
 
+</div>
 </div>
