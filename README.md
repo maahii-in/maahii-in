@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-budati1209)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C47FF?style=flat-square&logo=googlechrome&logoColor=white)](https://maahii.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-budati1209/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahieshwar.budati@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maahii-in)
 
@@ -15,6 +16,8 @@
 ## 👨‍💻 About Me
 
 I am an **AI Engineer** specializing in intelligent systems & **LLM-powered applications**. I build **RAG architectures** using **LangChain, LangGraph, Vector Databases and Graph RAG**, turning complex AI concepts into practical solutions.
+
+🌐 **Portfolio:** [maahii.space](https://maahii.space/) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/mahi-budati1209](https://www.linkedin.com/in/mahi-budati1209/)
 
 ## 📊 GitHub Contribution Graph
 
@@ -43,6 +46,7 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 ![Vector DBs & Embeddings](https://img.shields.io/badge/Vector%20DBs%20%26%20Embeddings-008080?style=flat-square)
 
 #### 🔌 Python Backend & Apps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
@@ -81,7 +85,8 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 
 **Open to collaboration | AI & LLM Projects | RAG System Design | Consultations** 🚀
 
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-maahii.space-6C47FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maahii.space/)
+
 <sub>⭐ If you found this profile interesting, please consider leaving a star!</sub>
 
-</div>
 </div>
