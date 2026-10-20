@@ -75,7 +75,6 @@ I am an **AI Engineer** specializing in intelligent systems & **LLM-powered appl
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Image Hardening](https://img.shields.io/badge/Image%20Hardening-2C3E50?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD%20Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 #### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
